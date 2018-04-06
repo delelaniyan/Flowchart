@@ -1,3 +1,3 @@
 # Flowchart
 
-(Read Me)[https://creately.com/app/?diagID=jfl5xecm1#]
+[Read Me](https://creately.com/app/?diagID=jfl5xecm1#)
